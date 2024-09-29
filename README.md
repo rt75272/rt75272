@@ -1,4 +1,4 @@
-## Hello World 👋 I'm _[Ryan Thompson](https://flask-1-cidy.onrender.com)_
+## Hello World 👋 I'm _[Ryan](https://flask-1-cidy.onrender.com)_
 <!--
 **rt75272/rt75272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
