@@ -1,5 +1,7 @@
 ## Hello World 👋 I'm _[Ryan](https://flask-1-cidy.onrender.com)_
-<img src="python_logo.png" alt="Python" width="100"/>
+<img src="python_logo.png" alt="Python" width="75"/>
+<img src="web_stack.png" alt="Python" width="75"/>
+<img src="tensorflow.png" alt="Python" width="75"/>
 <!--
 **rt75272/rt75272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
