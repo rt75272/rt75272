@@ -1,7 +1,8 @@
 ## Hello World 👋 I'm _[Ryan](https://flask-1-cidy.onrender.com)_
 <p align="center">
-  <img src="linux_logo_.png" alt="Linux" width="100"/>
-  <img src="git.png" alt="Git" width="75"/>
+  
+  <img src="git_.png" alt="Git" width="75"/>
+  <img src="linux_logo_.png" alt="Linux" width="85"/>
   <img src="java.png" alt="Java" width="75"/>
   <img src="python_logo.png" alt="Python" width="100"/>
   <img src="tensorflow_.png" alt="Tensorflow" width="75"/>
