@@ -2,8 +2,8 @@
 <p align="center">
   <img src="git.png" alt="Git" width="75"/>
   <img src="java.png" alt="Java" width="75"/>
-  <img src="linux_logo.png" alt="Linux" width="75"/>
-  <img src="python_logo.png" alt="Python" width="75"/>
+  <img src="linux_logo.png" alt="Linux" width="100"/>
+  <img src="python_logo.png" alt="Python" width="100"/>
   <img src="tensorflow_.png" alt="Tensorflow" width="75"/>
   <img src="html.png" alt="HTML" width="74"/>
   <img src="css.png" alt="CSS" width="65"/>
