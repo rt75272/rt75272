@@ -4,7 +4,7 @@
   <img src="java.png" alt="Java" width="75"/>
   <img src="linux_logo.png" alt="Linux" width="75"/>
   <img src="python_logo.png" alt="Python" width="75"/>
-  <img src="tensorflow.png" alt="Tensorflow" width="75"/>
+  <img src="tensorflow_.png" alt="Tensorflow" width="75"/>
   <img src="web_stack.png" alt="Web" width="75"/>
 </p>
 <!--
