@@ -1,17 +1,14 @@
 ## Hello World 👋 I'm _[Ryan](https://flask-1-cidy.onrender.com)_
 <p align="center">
-  
-  <img src="git_.png" alt="Git" width="5.5%"/>
-  <img src="shell_.png" alt="Shell" width="5%"/>
-  <img src="linux_logo_.png" alt="Linux" width="5.5%"/>
-  <img src="java.png" alt="Java" width="4%"/>
-  <img src="python_logo.png" alt="Python" width="6%"/>
-  <img src="tensorflow_.png" alt="Tensorflow" width="5%"/>
-  <img src="html.png" alt="HTML" width="4.85%"/>
-  <img src="css.png" alt="CSS" width="4.25%"/>
-  <img src="js.png" alt="JS" width="4.875%"/>
-  
-  
+  <img src="pictures/git_.png" alt="Git" width="5.5%"/>
+  <img src="pictures/shell_.png" alt="Shell" width="5%"/>
+  <img src="pictures/linux_logo_.png" alt="Linux" width="5.5%"/>
+  <img src="pictures/java.png" alt="Java" width="4%"/>
+  <img src="pictures/python_logo.png" alt="Python" width="6%"/>
+  <img src="pictures/tensorflow_.png" alt="Tensorflow" width="5%"/>
+  <img src="pictures/html.png" alt="HTML" width="4.85%"/>
+  <img src="pictures/css.png" alt="CSS" width="4.25%"/>
+  <img src="pictures/js.png" alt="JS" width="4.875%"/>
 </p>
 <!--
 **rt75272/rt75272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
