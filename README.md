@@ -2,7 +2,7 @@
 <p align="center">
   
   <img src="git_.png" alt="Git" width="5.5%"/>
-  <img src="shell.png" alt="Shell" width="6%"/>
+  <img src="shell_.png" alt="Shell" width="6%"/>
   <img src="linux_logo_.png" alt="Linux" width="5.5%"/>
   <img src="java.png" alt="Java" width="4%"/>
   <img src="python_logo.png" alt="Python" width="6%"/>
