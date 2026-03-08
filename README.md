@@ -11,9 +11,8 @@
   <img src="pictures/css.png" alt="CSS" width="4.25%"/>
   <img src="pictures/js.png" alt="JS" width="4.875%"/>
 </p>
-</br>
-<h2 align="center">🎓 Education</h2>
-<p align="center">
+<h2 align="left">🎓 Education</h2>
+<p align="left">
   🤖 <i>MS in Artificial Intelligence &amp; Machine Learning (AI/ML).</i><br/>
   💻 <i>BS in Computer Science.</i><br/>
   📊 <i>Certificate in Data Science.</i>
@@ -22,9 +21,8 @@
 <!-- **rt75272/rt75272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-</br>
-<h2 align="center">Additional</h2>
-<p align="center">
+<h2 align="left">Additional</h2>
+<p align="left">
   🌱 I’m currently working, learning, and looking to collaborate on AI/ML.<br/>
   💬 Ask me about software development with AI/ML.<br/>
   📫 How to reach me: rt75272@gmail.com.
