@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">🎓 Education</h2>
+<p align="center">
+  🤖 <strong>Master of Science – Artificial Intelligence &amp; Machine Learning</strong><br/>
+  💻 <strong>Bachelor of Science – Computer Science</strong><br/>
+  📊 <strong>Data Science Certificate</strong>
+</p>
