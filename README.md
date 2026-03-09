@@ -24,8 +24,8 @@
 Here are some ideas to get you started: -->
 <h2 align="left">➕ Additional</h2>
 <p align="left">
-  🌱 I’m currently working, learning, and looking to collaborate on AI/ML.<br/>
-  💬 Ask me about software development with AI/ML.<br/>
-  📫 How to reach me: rt75272@gmail.com.
+  🌱 <i>I’m currently working on, learning about, and looking to collaborate on AI/ML.</i><br/>
+  💬 <i>Ask me about software development with AI/ML.</i><br/>
+  📫 <i>How to reach me: rt75272@gmail.com.</i>
 </p>
 
