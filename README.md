@@ -14,9 +14,9 @@
 <h2 align="left">🎓 Education</h2>
 <p align="left">
   🤖 <i>MS in Artificial Intelligence &amp; Machine Learning (AI/ML).</i><br/>
-  🛡️ <i>Graduate Certificate in Cyber Security.</i></br>
   💻 <i>BS in Computer Science.</i><br/>
-  📊 <i>Certificate in Data Science.</i>
+  🛡️ <i>Graduate Certificate in Cyber Security.</i></br>
+  📊 <i>Certificate in Data Science.</i></br>
   🤖 <i>Looking to start a PhD emphasizing on Artificial Intelligence in 2027.</i><br/>
 </p>
 
