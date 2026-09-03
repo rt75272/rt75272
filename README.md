@@ -13,11 +13,11 @@
 </p>
 <h2 align="left">🎓 Education</h2>
 <p align="left">
-  🤖 <i>Looking to start a PhD in Artificial Intelligence in 2027.</i><br/>
   🤖 <i>MS in Artificial Intelligence &amp; Machine Learning (AI/ML).</i><br/>
   🛡️ <i>Graduate Certificate in Cyber Security.</i></br>
   💻 <i>BS in Computer Science.</i><br/>
   📊 <i>Certificate in Data Science.</i>
+  🤖 <i>Looking to start a PhD emphasizing on Artificial Intelligence in 2027.</i><br/>
 </p>
 
 <!-- **rt75272/rt75272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
